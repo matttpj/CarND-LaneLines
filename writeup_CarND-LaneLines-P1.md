@@ -1,4 +1,4 @@
-# **Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road**
 
 ## Writeup by Matthew Jones
 
@@ -28,16 +28,16 @@ My image processing pipeline consisted of 6 steps:
  2. Apply Gaussian blur
  3. Apply Canny transform to detect edges
  4. Mask image with a poylgon (4 vertices)
- 5. Draw lines on a blank image with average gradients of lines detected by Hough transform 
- 
+ 5. Draw lines on a blank image with average gradients of lines detected by Hough transform
+
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by:
  * separating left-side(+) and right-side(-) lines
  * calculating their average slope
  * drawing the average line only on left and right side of the image.
 
-Here is the output of the pipeline: 
+Here is the output of the pipeline:
 
-![alt text][./test_images_output/solidWhiteRightprocessed.png]
+[image2][./test_images_output/solidWhiteRightprocessed.png]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
@@ -50,6 +50,5 @@ Potential shortcomings of my current pipeline include:
 ### 3. Suggest possible improvements to your pipeline
 
 Possible improvements could include:
- * handling when colour of the road changes due to shadow 
+ * handling when colour of the road changes due to shadow
  * handling when colour of the road changes due to change in road material (eg. tarmac to concrete)
-
