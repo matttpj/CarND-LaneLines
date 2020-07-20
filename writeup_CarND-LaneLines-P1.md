@@ -15,17 +15,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-**Solid White Right Line**
-<br/>
-<img src="./test_images/solidWhiteRight.jpg" width=50% height=50%>
-
 ---
 
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My image processing pipeline consisted of 6 steps:
+My image processing pipeline consisted of 5 steps:
  1. Convert image to gray scale
  2. Apply Gaussian blur
  3. Apply Canny transform to detect edges
@@ -39,9 +35,53 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Here is the output of the pipeline:
 
+**Solid White Curve Line**
+<br/>
+<img src="./test_images/solidWhiteCurve.jpg" width=50% height=50%>
+
+**Solid White Curve Line** - _Processed_
+<br/>
+<img src="./test_images_output/solidWhiteCurveprocessed.png" width=50% height=50%>
+
+**Solid White Right Line**
+<br/>
+<img src="./test_images/solidWhiteRight.jpg" width=50% height=50%>
+
 **Solid White Right Line** - _Processed_
 <br/>
 <img src="./test_images_output/solidWhiteRightprocessed.png" width=50% height=50%>
+
+**Solid Yellow Curve Line**
+<br/>
+<img src="./test_images/solidYellowCurve.jpg" width=50% height=50%>
+
+**Solid Yellow Curve Line** - _Processed_
+<br/>
+<img src="./test_images_output/solidYellowCurveprocessed.png" width=50% height=50%>
+
+**Solid Yellow Curve2 Line**
+<br/>
+<img src="./test_images/solidYellowCurve2.jpg" width=50% height=50%>
+
+**Solid Yellow Curve Line2** - _Processed_
+<br/>
+<img src="./test_images_output/solidYellowCurve2processed.png" width=50% height=50%>
+
+**Solid Yellow Left Line**
+<br/>
+<img src="./test_images/solidYellowLeft.jpg" width=50% height=50%>
+
+**Solid Yellow Left Line** - _Processed_
+<br/>
+<img src="./test_images_output/solidYellowLeftprocessed.png" width=50% height=50%>
+
+**White Car Lane Switch Line**
+<br/>
+<img src="./test_images/whiteCarLaneSwitch.jpg" width=50% height=50%>
+
+**White Car Lane Switch Line** - _Processed_
+<br/>
+<img src="./test_images_output/whiteCarLaneSwitch.png" width=50% height=50%>
 
 
 ### 2. Identify potential shortcomings with your current pipeline
