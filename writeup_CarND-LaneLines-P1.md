@@ -89,7 +89,7 @@ Here are the inputs and outputs of the pipeline:
 Potential shortcomings of my current pipeline include:
  * does not work with the challenge video
  * it is not drawing a single left-side and single right-side lines when the road markings are dotted lines
- * white cars switching lanes are not well handled
+ * other white objects can get identified as lines
 
 
 ### 3. Suggest possible improvements to your pipeline
