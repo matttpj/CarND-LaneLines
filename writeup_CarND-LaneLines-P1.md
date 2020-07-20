@@ -15,7 +15,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![image1](./examples/grayscale.jpg) "Grayscale"
+**Solid White Right Line**
+![image1](./test_images/solidWhiteRight.jpg)
 
 ---
 
@@ -37,7 +38,8 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Here is the output of the pipeline:
 
-![Solid White Right Processed](./test_images_output/solidWhiteRightprocessed.png) "solidWhiteRightprocessed"
+**Solid White Right Line * - Processed***
+![image2](./test_images/solidWhiteRightprocessed.png)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
