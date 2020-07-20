@@ -41,7 +41,7 @@ Here is the output of the pipeline:
 
 **Solid White Right Line** - _Processed_
 <br/>
-<img src="./test_images_output/solidWhiteRightprocessed.jpg" width=50% height=50%>
+<img src="./test_images_output/solidWhiteRightprocessed.png" width=50% height=50%>
 
 
 ### 2. Identify potential shortcomings with your current pipeline
