@@ -33,7 +33,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
  * calculating their average slope
  * drawing the average line only on left and right side of the image.
 
-Here is the output of the pipeline:
+Here are the inputs and outputs of the pipeline:
 
 **Solid White Curve Line**
 <br/>
@@ -89,6 +89,7 @@ Here is the output of the pipeline:
 Potential shortcomings of my current pipeline include:
  * does not work with the challenge video
  * it is not drawing a single left-side and single right-side lines when the road markings are dotted lines
+ * white cars switching lanes
 
 
 ### 3. Suggest possible improvements to your pipeline
