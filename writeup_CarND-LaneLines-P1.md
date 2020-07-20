@@ -81,7 +81,7 @@ Here is the output of the pipeline:
 
 **White Car Lane Switch Line** - _Processed_
 <br/>
-<img src="./test_images_output/whiteCarLaneSwitch.png" width=50% height=50%>
+<img src="./test_images_output/whiteCarLaneSwitchprocessed.png" width=50% height=50%>
 
 
 ### 2. Identify potential shortcomings with your current pipeline
