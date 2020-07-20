@@ -4,9 +4,9 @@
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 
-List of files
+List of project submission files
 ---
-* _Notebook:_ [P1.ipynb]()./P1.ipynb)
+* _Notebook:_ [P1.ipynb](./P1.ipynb)
 * _Writeup:_ [writeup_CarND-LaneLines-P1.md](./writeup_CarND-LaneLines-P1.md)
 
 
