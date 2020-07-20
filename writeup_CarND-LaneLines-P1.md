@@ -16,6 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 **Solid White Right Line**
+<br/>
 <img src="./test_images/solidWhiteRight.jpg" width=50% height=50%>
 
 ---
@@ -39,7 +40,8 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 Here is the output of the pipeline:
 
 **Solid White Right Line** - _Processed_
-![image2 width="50%"](./test_images_output/solidWhiteRightprocessed.png)
+<br />
+<img src="./test_images_output/solidWhiteRightprocessed.jpg" width=50% height=50%>
 
 
 ### 2. Identify potential shortcomings with your current pipeline
