@@ -6,8 +6,8 @@
 
 List of files
 ---
-Notebook: ./P1.ipynb
-Writeup: ./writeup_CarND-LaneLines-P1.md
+* _Notebook:_ [P1.ipynb]()./P1.ipynb)
+* _Writeup:_ [writeup_CarND-LaneLines-P1.md](./writeup_CarND-LaneLines-P1.md)
 
 
 Overview
