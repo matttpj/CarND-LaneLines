@@ -33,6 +33,9 @@ In order to draw a single line on the left and right lanes, I modified the draw_
  * calculating their average slope
  * drawing the average line only on left and right side of the image.
 
+I got stuck on the updates to draw_lines() function so I borrowed and tried to understand slope averaging section from:
+https://codynicholson.github.io/Finding_Lane_Lines_Project/
+
 Here are the inputs and outputs of the pipeline:
 
 **Solid White Curve Line**
