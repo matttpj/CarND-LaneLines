@@ -37,7 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Here is the output of the pipeline:
 
-[image2]: ./test_images_output/solidWhiteRightprocessed.png "solidWhiteRightprocessed"
+[image2]: <img src="./test_images_output/solidWhiteRightprocessed.png">  "solidWhiteRightprocessed"
 
 
 ### 2. Identify potential shortcomings with your current pipeline
