@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 **Solid White Right Line**
-![image1 width="50%"](./test_images/solidWhiteRight.jpg){height="50%" width="50%"}
+<img src="./test_images/solidWhiteRight.jpg" width=50% height=50%>
 
 ---
 
